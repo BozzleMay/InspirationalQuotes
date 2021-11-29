@@ -1,0 +1,25 @@
+
+
+
+.quotes {
+  color: white;
+}
+.quote {
+  display: flex;
+}
+
+header{
+
+    display: flex;
+    width: 100%;
+    justify-content:flex-end ;
+    
+}
+.weather {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-right: 10px;
+  
+
+}
